@@ -1,2 +1,2 @@
 # AI-learning
-AI
+AI course learning projects
